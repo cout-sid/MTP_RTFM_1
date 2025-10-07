@@ -8,7 +8,7 @@ from train import train
 from test_10crop import test
 import option
 from tqdm import tqdm
-from utils import Visualizer
+# from utils import Visualizer
 from config import *
 
 # viz = Visualizer(env='shanghai tech 10 crop', use_incoming_socket=False)
